@@ -3,6 +3,7 @@
 ### Sobre mim 👋
 Olá, meu nome é Gustavo Henrique Ricardo. Tenho 16 anos e atualmente estou cursando o Técnico em Desenvolvimento de Sistemas na ETEC, além de estar no 2° ano do Ensino Médio. Sou apaixonado por tecnologia e sempre busco aprender coisas novas relacionadas ao desenvolvimento de software e ferramentas tecnológicas. 🚀
 
+https://www.linkedin.com/in/gustavo-ricardo-34021b351/?trk=public-profile-join-page
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus__hr7/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Ricardo-hub&show_icons=true&theme=radical)
