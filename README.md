@@ -7,7 +7,6 @@ Olá, meu nome é Gustavo Henrique Ricardo. Tenho 17 anos e atualmente estou cur
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus__hr7/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Ricardo-hub&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Ricardo-hub&show_icons=true&theme=radical)
 
 
 ### Tecnologias:
